@@ -1,11 +1,3 @@
-# Text File
-# Copyright (C) 2018 Alibaba-inc All rights reserved.
-# AUTHOR:   qingfu.cqf
-# FILE:     makefile
-# COMMENT:  a generate makefile template
-# CREATED:  2018-04-26 15:01:10
-# MODIFIED: 2018-11-01 20:03:04
-
 GTEST_DIRS=../3rd/googletest
 GFLAG_DIRS=../3rd/gflags
 
